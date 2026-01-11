@@ -23,7 +23,7 @@ function App() {
       <header className='app-header'>
         <div className='app-brand'>
           <i className='bi bi-diagram-3-fill'></i>
-          <span>Pipeline Builder</span>
+          <span>Pipeline Workflow Builder</span>
         </div>
       </header>
 

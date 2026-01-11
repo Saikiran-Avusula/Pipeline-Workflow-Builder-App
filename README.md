@@ -1,8 +1,8 @@
-# VectorShift Assignment: Pipeline Builder Application
+# VectorShift Assignment: Pipeline-Workflow-Builder-App
 
 ## Project Overview
 
-This project is a **Pipeline Builder Application** built as part of the VectorShift Assignment. It allows users to create visual workflows by dragging and dropping different types of nodes onto a canvas. The application validates whether the created pipeline forms a valid **Directed Acyclic Graph (DAG)**, which is essential for workflow execution without cycles.
+This project is a **Pipeline-Workflow-Builder-App** built as part of the VectorShift Assignment. It allows users to create visual workflows by dragging and dropping different types of nodes onto a canvas. The application validates whether the created pipeline forms a valid **Directed Acyclic Graph (DAG)**, which is essential for workflow execution without cycles.
 
 ### What is a Pipeline?
 A pipeline is a series of connected steps or processes that transform data or perform tasks in sequence. In this application, pipelines are built visually using nodes and connections.
